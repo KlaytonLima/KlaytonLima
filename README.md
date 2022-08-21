@@ -2,7 +2,7 @@ Olá, sou Klayton 👋
 
 ✔Técnico em Desenvolvimento de Sistemas CTM-Senai
 
-Atualmente aprendendo 📚
+Aprendendo 📚
 
 - C
 - C#
