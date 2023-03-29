@@ -14,7 +14,7 @@ Aprendendo 📚
 - JAVASCRIPT
 - CSS
 
-![Snake animation](https://github.com/KlaytonLima/KlaytonLima/blob/output/github-contribution-grid-snake.svg)
+
 
     
 
